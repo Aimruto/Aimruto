@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐹, I'm Aiman Hasib</h1>
 <h3 align="center"><strong>A passionate web developer</strong></h3>
 <br>
-<img align="right" alt="Coding" width="235" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
+<img align="right" alt="Coding" width="235" style="margin-right: 15px;"src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 - 🌱 I’m currently learning **React, Deep Learning, AWS, Docker**
 
