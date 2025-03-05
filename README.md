@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aimanhasib6@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yC_bhFwxnuKlg0TusCWhSE71aA4Ofgnq/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KCkoswSTFsFgAmoXLPL1155d8E41-bmS/view?usp=sharing)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
