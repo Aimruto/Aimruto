@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Deep Learning, AWS, Docker**
 
-- 💬 Ask me about **Data Structure**
+- 💬 Ask me about **Data Structures**
 
 - 📫 How to reach me **aimanhasib6@gmail.com**
 
